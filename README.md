@@ -531,7 +531,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 If you like this project, please give it a ⭐ on GitHub!
 
-For support, email pratikshinde99@example.com or open an issue on GitHub.
+For support, email ps175581@gmail.com or open an issue on GitHub.
 
 ---
 
