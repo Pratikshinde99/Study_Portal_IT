@@ -490,7 +490,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Pratik Shinde**
 
 - GitHub: [@Pratikshinde99](https://github.com/Pratikshinde99)
-- Email: pratikshinde99@example.com
+- Email: ps175581@gmail.com
 
 ---
 
