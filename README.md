@@ -162,8 +162,8 @@ pip install -r requirements.txt
    SECRET_KEY=your-generated-secret-key-here
    
    # Admin Credentials
-   ADMIN_USERNAME=Pratik
-   ADMIN_PASSWORD=@Pratik9890
+   ADMIN_USERNAME=
+   ADMIN_PASSWORD=
    
    # Development Mode
    FLASK_DEBUG=true
